@@ -22,8 +22,4 @@ The Taj Mahal is a **historic** and the most beautiful place in the world. The c
     - Extra Cash
 ---
 
-**[To know more about me](AboutMe.md)**
-
----
-
 
