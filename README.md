@@ -22,4 +22,19 @@ The Taj Mahal is a **historic** and the most beautiful place in the world. The c
     - Extra Cash
 ---
 
+[AboutMe](AboutMe.md)
 
+---
+
+# Food Table
+
+Table shows location and amount of food
+
+| *Food*                  | *Location*        | *Amount*           |
+| ----------------------- | ----------------- | ------------------ |
+| Biryani                 | Hyderabad         | 300 INR            |
+| Kachori                 | Kolkata           | 150 INR            |
+| Chole Bature            | Delhi             | 150 INR            |
+| Dosa                    | Chennai           | 80 INR             |
+
+---
