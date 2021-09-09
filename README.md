@@ -51,4 +51,37 @@ Shakespeare
 
 ---
 
+## Code Fencing
+
+Finding Power of Factorial Divisor from **Combinatorics**
+
+> The full scope of combinatorics is not universally agreed upon.[1] According to H.J. Ryser, a definition of the subject is difficult because it crosses so many mathematical subdivisions.[2] Insofar as an area can be described by the types of problems it addresses, combinatorics is involved with:
+
+> the enumeration (counting) of specified structures, sometimes referred to as arrangements or configurations in a very general sense, associated with finite systems,
+> the existence of such structures that satisfy certain given criteria,
+> the construction of these structures, perhaps in many ways, and
+> optimization: finding the "best" structure or solution among several possibilities, be it the "largest", "smallest" or satisfying some other optimality criterion.
+
+Combinatorics [Reference Link](https://en.wikipedia.org/wiki/Combinatorics)
+
+Code for Combinatorics
+
+---
+
+int fact_pow (int n, int k) {
+    int res = 0;
+    while (n) {
+        n /= k;
+        res += n;
+    }
+    return res;
+}
+
+---
+
+Combinatorics [Code Link](https://cp-algorithms.com/algebra/factorial-divisors.html)
+
+
+
+
 
