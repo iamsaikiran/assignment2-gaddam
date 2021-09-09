@@ -73,7 +73,7 @@ int fact_pow (int n, int k) {
     while (n) {
         n /= k;
         res += n;
-    }
+}
     return res;
 }
 
