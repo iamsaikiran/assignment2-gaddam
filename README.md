@@ -13,13 +13,13 @@ The Taj Mahal is a **historic** and the most beautiful place in the world. The c
         5. Agra to Taj Mahal.
 ---
  ### Products to be packed for enjoyment.
-    - Camera
-    - Charger
-    - Clothes& Shoes
-    - Light Jacket
-    - Water Bottle
-    - Wallet
-    - Extra Cash
+* Camera
+* Charger
+*  Clothes& Shoes
+    * Light Jacket
+    * Water Bottle
+    * Wallet
+* Extra Cash
 ---
 
 [AboutMe](AboutMe.md)
