@@ -38,3 +38,17 @@ Table shows location and amount of food
 | Dosa                    | Chennai           | 80 INR             |
 
 ---
+
+# Quotes
+
+Albert Einstein
+
+> Before God we are all equally wise - and equally foolish.
+
+Shakespeare
+
+> Be great in act, as you have been in thought.
+
+---
+
+
